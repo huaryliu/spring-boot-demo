@@ -1,0 +1,828 @@
+INFO 2020-09-17 15:30:09:012 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:014 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:015 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:016 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:017 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:018 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:019 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:021 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:022 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:023 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:096 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:098 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:101 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:103 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:134 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:136 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:138 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:139 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:141 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:143 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:144 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:147 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jdbc-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:149 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:150 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:152 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:153 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:155 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:156 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:158 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:159 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:162 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:164 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:174 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:176 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:178 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:188 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:189 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:193 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:194 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:195 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:197 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:199 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:220 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:224 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:225 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:228 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:230 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:231 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:233 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:268 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:270 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:271 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:273 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:274 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:276 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:279 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:280 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:284 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:286 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:287 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:288 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:290 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:292 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:293 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:294 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:296 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:298 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:300 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:301 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:302 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:304 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:305 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:307 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:323 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:324 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:325 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:327 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:328 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:356 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:358 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:359 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:360 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:362 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\spring-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:363 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:365 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:366 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:367 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:367 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:369 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:369 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:09:383 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:384 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:384 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:384 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:384 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:384 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:384 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:384 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:385 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:385 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:385 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:385 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:387 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:387 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:388 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:388 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:388 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:388 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:388 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:388 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:389 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:389 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:389 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:389 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:391 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:391 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:392 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:392 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:392 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:392 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:392 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:392 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:392 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:393 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:393 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:393 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:393 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:393 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:393 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:393 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:394 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:395 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:398 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:398 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:398 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:399 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:399 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:399 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:399 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:399 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:399 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:399 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:399 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:400 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:400 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:400 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:400 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:400 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:402 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:403 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:403 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:403 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:403 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:403 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:404 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:404 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:404 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:404 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:404 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:404 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:404 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:404 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:405 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:405 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:405 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:405 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:406 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:406 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:09:408 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:30:18:818 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:818 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:819 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:819 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:820 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:820 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:820 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:821 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:821 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:822 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:822 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:823 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:823 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:824 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:824 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:824 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:825 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:825 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:825 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:826 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:826 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:826 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jdbc-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:827 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:827 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:827 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:828 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:828 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:828 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:829 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:829 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:829 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:829 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:829 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:830 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:830 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:830 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:830 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:833 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:834 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:834 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:834 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:835 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:835 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:835 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:836 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:836 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:836 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:837 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:837 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:837 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:838 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:838 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:839 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:839 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:839 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:840 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:840 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:840 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:841 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:841 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:841 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:842 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:842 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:843 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:843 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:843 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:844 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:844 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:844 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:845 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:845 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:849 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:849 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:850 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:850 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:851 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:851 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:852 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:852 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:853 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:853 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:854 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:854 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\spring-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:855 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:856 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:856 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:30:18:858 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar loaded. 
+WARN 2020-09-17 15:30:23:411 main AbstractClassEnhancePluginDefine : enhance class com.example.demo1.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:30:23:411 main AbstractClassEnhancePluginDefine : enhance class com.example.demo1.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:30:24:350 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:30:24:350 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:30:24:350 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:30:34:551 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:30:34:552 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:30:34:565 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:30:34:565 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+INFO 2020-09-17 15:33:40:018 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:021 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:022 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:023 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:025 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:026 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:027 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:028 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:029 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:030 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:031 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:032 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:033 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:035 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:036 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:037 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:038 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:039 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:041 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:042 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:043 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:044 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jdbc-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:045 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:046 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:046 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:047 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:048 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:051 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:052 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:053 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:054 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:055 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:056 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:057 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:058 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:059 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:060 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:062 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:063 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:066 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:067 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:068 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:069 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:070 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:071 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:072 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:073 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:074 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:075 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:077 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:078 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:078 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:081 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:082 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:083 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:086 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:087 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:087 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:088 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:089 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:090 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:091 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:092 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:093 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:095 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:097 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:097 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:098 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:100 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:100 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:102 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:103 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:104 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:105 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:106 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:107 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:108 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:108 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:111 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:112 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:113 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:115 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:117 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\spring-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:119 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:121 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:122 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:123 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:124 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:128 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:129 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:40:147 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:148 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:148 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:149 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:149 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:149 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:149 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:149 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:149 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:149 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:150 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:150 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:155 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:156 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:156 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:156 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:156 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:156 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:156 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:156 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:157 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:157 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:157 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:159 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:160 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:160 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:161 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:161 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:166 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:166 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:166 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:166 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:167 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:167 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:167 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:167 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:167 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:167 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:167 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:168 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:168 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:168 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:168 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:168 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:168 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:168 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:168 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:169 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:169 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:169 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:169 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:169 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:169 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:169 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:169 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:172 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:173 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:174 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:174 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:174 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:174 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:175 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:176 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:177 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:40:178 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:33:49:810 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:810 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:810 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:811 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:811 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:812 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:812 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:813 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:813 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:813 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:814 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:814 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:815 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:817 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:817 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:818 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:818 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:819 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:819 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:820 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:820 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:821 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jdbc-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:821 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:823 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:823 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:824 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:824 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:825 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:825 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:825 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:826 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:826 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:827 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:827 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:827 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:828 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:828 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:829 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:829 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:830 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:830 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:830 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:831 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:831 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:832 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:832 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:832 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:833 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:833 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:833 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:833 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:834 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:834 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:835 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:836 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:836 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:849 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:850 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:850 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:850 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:853 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:854 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:854 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:854 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:855 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:855 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:855 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:856 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:856 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:858 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:858 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:858 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:859 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:859 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:859 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:860 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:860 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:861 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:861 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:861 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\spring-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:862 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:863 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:863 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:864 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:864 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:864 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:33:49:865 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar loaded. 
+WARN 2020-09-17 15:33:53:638 main AbstractClassEnhancePluginDefine : enhance class com.example.demo1.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:33:53:638 main AbstractClassEnhancePluginDefine : enhance class com.example.demo1.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:33:54:583 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:33:54:583 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:33:54:583 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:34:02:909 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:34:02:910 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:34:02:924 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:34:02:924 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+INFO 2020-09-17 15:48:32:038 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:039 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:040 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:041 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:042 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:044 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:045 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:048 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:050 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:052 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:054 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:056 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:061 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:063 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:066 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:068 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:069 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:071 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:073 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:074 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:080 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:081 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jdbc-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:083 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:084 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:085 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:086 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:088 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:090 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:093 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:095 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:097 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:098 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:099 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:100 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:101 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:110 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:112 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:114 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:120 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:120 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:121 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:122 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:124 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:125 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:126 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:127 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:128 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:130 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:131 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:132 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:136 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:139 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:140 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:141 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:142 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:144 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:145 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:146 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:147 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:156 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:157 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:158 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:160 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:161 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:161 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:162 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:164 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:165 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:166 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:167 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:167 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:168 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:169 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:169 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:170 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:171 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:171 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:173 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:174 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:175 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:175 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:176 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:178 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\spring-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:180 main AgentClassLoader : F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:181 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:182 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:183 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:184 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:185 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:186 main AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:32:203 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:203 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:204 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:205 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:205 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:205 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:205 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:206 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:206 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:206 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:207 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:207 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:207 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:207 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:207 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:208 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:211 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:219 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:219 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:219 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:219 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:219 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:32:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar!/skywalking-plugin.def 
+INFO 2020-09-17 15:48:41:846 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-activemq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:847 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.84.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:847 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-armeria-0.85.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:847 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-avro-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:848 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-canal-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:848 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-cassandra-java-driver-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:848 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-2.7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:849 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-dubbo-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:850 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-ehcache-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:850 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elastic-job-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:851 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:852 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-elasticsearch-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:853 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-feign-default-http-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:853 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-finagle-6.25.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:854 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-grpc-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:854 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-h2-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:854 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpasyncclient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:855 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpclient-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:855 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-httpClient-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:856 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-hystrix-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:856 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-influxdb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:856 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jdbc-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jedis-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-client-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:857 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-jetty-server-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:858 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-kafka-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:858 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-lettuce-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:860 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-light4j-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:860 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mariadb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:861 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:861 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mongodb-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:862 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:862 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-6.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:862 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:862 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-mysql-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:863 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-netty-socketio-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:863 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-http-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:863 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:864 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-okhttp-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:864 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-play-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:864 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-postgresql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:864 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-pulsar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:865 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-quasar-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:865 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rabbitmq-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:865 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-redisson-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:866 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-resttemplate-4.3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:866 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:866 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-rocketmq-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:867 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:867 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:868 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:868 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:868 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.1.0-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:869 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:869 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-sharding-sphere-4.x-rc3-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:869 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-shardingsphere-4.0.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:870 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-solrj-7.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:870 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-async-annotation-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:870 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:871 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-cloud-feign-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:871 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:871 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-core-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:872 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spring-webflux-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:872 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:873 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:873 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:873 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-springmvc-annotation-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:875 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-spymemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:876 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-struts2-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:876 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-undertow-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:877 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-vertx-core-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:877 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\apm-xmemcached-2.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:877 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\baidu-brpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:878 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-2.7.x-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:878 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\dubbo-conflict-patch-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:878 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-12.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:879 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:879 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\graphql-9.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:879 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\motan-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:880 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\resteasy-server-3.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:880 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\sofa-rpc-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:881 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\spring-commons-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:881 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\plugins\tomcat-7.x-8.x-plugin-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:882 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:882 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-log4j-2.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:883 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-logback-1.x-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:883 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-meter-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:883 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-opentracing-activation-8.1.0.jar loaded. 
+INFO 2020-09-17 15:48:41:884 SkywalkingAgent-5-GRPCChannelManager-0 AgentClassLoader : F:\code\SkyWalking\agent\activations\apm-toolkit-trace-activation-8.1.0.jar loaded. 
+WARN 2020-09-17 15:48:44:927 main AbstractClassEnhancePluginDefine : enhance class com.example.demo1.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:48:44:928 main AbstractClassEnhancePluginDefine : enhance class com.example.demo1.UserController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:48:45:807 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:48:45:807 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:48:45:807 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerForLowVersionInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:48:53:557 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:48:53:557 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+WARN 2020-09-17 15:48:53:572 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2020-09-17 15:48:53:572 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
